@@ -1,0 +1,2 @@
+What I have learned in the course
+I learned github, git and shell commands
